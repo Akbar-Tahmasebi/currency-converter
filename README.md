@@ -4,5 +4,5 @@ Project made of:
 React js , TypeScript , Tailwind CSS
 
 Enter the following codes to run the project in the terminal:
-$ npm install
-$ npm run preview
+1: npm install
+2: npm run dev
