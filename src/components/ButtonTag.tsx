@@ -1,4 +1,4 @@
-import { PropsButtonTag } from "./types/type";
+import { PropsButtonTag } from "../types/type";
 
 const Button = ({ title, handelClick }: PropsButtonTag) => {
   return (

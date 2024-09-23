@@ -1,4 +1,4 @@
-import { PropsOutput } from "./types/type";
+import { PropsOutput } from "../types/type";
 
 const CurrencyOutput = ({ usd, rial }: PropsOutput) => {
   return (

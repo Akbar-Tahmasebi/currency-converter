@@ -1,6 +1,6 @@
 import Button from "./ButtonTag";
 import InputTag from "./InputTag";
-import { PropsInput } from "./types/type";
+import { PropsInput } from "../types/type";
 
 const CurrencyInput = ({
   exchangeRate,

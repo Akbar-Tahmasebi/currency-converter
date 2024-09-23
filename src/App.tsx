@@ -1,7 +1,7 @@
 import { useState } from "react";
 import CurrencyInput from "./components/CurrencyInput";
 import CurrencyOutput from "./components/CurrencyOutput";
-import { Currency } from "./components/types/type";
+import { Currency } from "./types/type";
 
 const App = () => {
   const exchangeRate = 597800;
